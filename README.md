@@ -1,3 +1,3 @@
-Nice work..but try to improve the design part
+Nice one..bt wud b better if u improve the time complexity
 # WEB-EXPLORER
 A SIMPLE WEB BROWSER.
